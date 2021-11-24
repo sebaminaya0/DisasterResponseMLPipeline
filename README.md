@@ -26,7 +26,7 @@ If you want to use new or add more data, please use the python programs process_
 
 ## Results<a name="results"></a>
 
-The web app is already deployed in the following Heroku app, [click here]() to be redirected.
+A web app is currently on the way to be deployed in the following link, [click here](https://my-disaster-message-classifier.herokuapp.com/) to be redirected.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
