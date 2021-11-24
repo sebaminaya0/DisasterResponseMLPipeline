@@ -112,8 +112,6 @@ def evaluate_model(model, X_test, Y_test, category_names):
         print(classification_report(np.transpose(y_pred)[i], np.transpose(Y_test)[i]))
         print(" ")
 
-    return None
-
 
 def save_model(model, model_filepath):
     """Saves the fitted ML model into a pickle file.
@@ -127,8 +125,6 @@ def save_model(model, model_filepath):
     """
 
     pickle.dump(model, open(model_filepath, 'wb'))
-
-    return None
 
 
 def main():
