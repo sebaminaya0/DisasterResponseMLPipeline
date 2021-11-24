@@ -64,7 +64,7 @@ def save_data(df, database_filename):
         None
     """
 
-    engine = create_engine('sqlite:///etl_done.db')
+    engine = create_engine(f'sqlite:///{database_filename}')
     df.to_sql('fact_messages', engine, index=False, if_exists='replace')
 
     return None
