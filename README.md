@@ -14,7 +14,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interested in creating a webapp to classify messages.
+For this project, I was interested in creating a webapp to classify messages given a certain category related humanitarian cirsis.
 
 The dataset given by Figure Eight, acquired in 2019 by [Appen](https://appen.com/), consists of data from almost 26,000 tweets that are related to natural or any disaster and with it I aim to be able to classify future tweets in the corresponding category
 
