@@ -20,7 +20,7 @@ The dataset given by Figure Eight, acquired in 2019 by [Appen](https://appen.com
 
 ## File Descriptions <a name="files"></a>
 
-There are 2 notebook available here to showcase work related to the ETL and ML pipelines step-by-step process. Also, you will find all the source code neccesary to deploy locally the app that will be able to classify new messages as well as give you an overview of the data.
+There are 2 notebook available here to showcase work related to the ETL and ML pipelines step-by-step process. Also, you will find all the source code neccesary to deploy locally an app that will be able to classify new messages as well as give you an overview of the data.
 
 If you want to use new or add more data, please use the python programs process_data.py and train_classifier.py.
 
